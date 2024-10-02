@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **C++,Advanced Java and Spring Boot frameworks**
 
-- 👯 I’m looking to collaborate on [CartIt](https://github.com/muralikarthikv/CartIt)
-
 - 🤝 I’m looking for help with **developing scalable backend systems**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-tan-ten-49.vercel.app/](https://portfolio-tan-ten-49.vercel.app/)
